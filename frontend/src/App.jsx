@@ -10,7 +10,7 @@ function App() {
       <Hero />
       <footer>
         <p>
-          Built with AWS, React & Node — by{" "}
+          Built with AWS, React & Node — by @{""}
           <a
             href="https://github.com/Gaurav-45"
             target="_blank"
