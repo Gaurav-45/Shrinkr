@@ -51,6 +51,7 @@
   transition: all 0.3s ease;
   backdrop-filter: blur(5px);
   margin: 1rem 0;
+  font-family: "poppins", sans-serif;
 }
 
 .url_container input::placeholder {
@@ -75,6 +76,7 @@
   cursor: pointer;
   transition: all 0.3s ease;
   box-shadow: 0 4px 15px rgba(255, 170, 0, 0.3);
+  font-family: "poppins", sans-serif;
 }
 
 .yellow_button:hover {
