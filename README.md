@@ -4,7 +4,7 @@
 
 This project is designed to be **scalable**, **cost-effective**, and **cloud-native**.
 
----
+## Live app link: http://shrinkr-frontend.s3-website-us-east-1.amazonaws.com/
 
 ## 🚀 Features
 
@@ -33,6 +33,13 @@ This project is designed to be **scalable**, **cost-effective**, and **cloud-nat
 ## 🛠 Architecture Diagram
 
 ![Shrinkr Architecture](HLD.png)
+
+---
+
+## 🚀 Live app
+
+![Live app1](home_screen.png)
+![Live app1](shorten_url.png)
 
 ---
 
